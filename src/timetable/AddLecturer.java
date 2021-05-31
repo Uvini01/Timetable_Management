@@ -360,9 +360,9 @@ public class AddLecturer extends javax.swing.JFrame {
     private void btnHomeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHomeActionPerformed
         // TODO add your handling code here:
         
-        Timetable C = new Timetable();
-       this.hide();
-       C.setVisible(true);
+       // Timetable C = new Timetable();
+      //this.hide();
+       //C.setVisible(true);
         
     }//GEN-LAST:event_btnHomeActionPerformed
 
