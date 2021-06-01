@@ -410,9 +410,9 @@ System.out.println(e);
     }// </editor-fold>//GEN-END:initComponents
 
     private void jbtnHomeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtnHomeActionPerformed
-        //Timetable C = new Timetable();
-       //this.hide();
-       //C.setVisible(true);
+        Timetable C = new Timetable();
+       this.hide();
+       C.setVisible(true);
     }//GEN-LAST:event_jbtnHomeActionPerformed
 
     private void jbtnAddSesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtnAddSesActionPerformed
