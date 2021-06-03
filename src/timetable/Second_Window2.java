@@ -421,9 +421,9 @@ throw new UnsupportedOperationException("Not supported yet."); //To change body 
         // TODO add your handling code here:
         
         
-        Timetable C = new Timetable();
-       this.hide();
-       C.setVisible(true);
+      //  Timetable C = new Timetable();
+      // this.hide();
+      // C.setVisible(true);
         
     }//GEN-LAST:event_jButton3ActionPerformed
 
