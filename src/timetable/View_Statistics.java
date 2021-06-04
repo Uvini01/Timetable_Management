@@ -565,8 +565,8 @@ public class View_Statistics extends javax.swing.JFrame {
         // TODO add your handling code here:
         
         Timetable C = new Timetable();
-this.hide();
-C.setVisible(true);
+        this.hide();
+        C.setVisible(true);
            
     }//GEN-LAST:event_jButton2ActionPerformed
 
