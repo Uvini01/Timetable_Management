@@ -237,9 +237,9 @@ throw new UnsupportedOperationException("Not supported yet."); //To change body 
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         // TODO add your handling code here:
-        Manage_Sessions_Rooms C = new Manage_Sessions_Rooms();
-        this.hide();
-        C.setVisible(true);
+       // Manage_Sessions_Rooms C = new Manage_Sessions_Rooms();
+       // this.hide();
+       // C.setVisible(true);
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
