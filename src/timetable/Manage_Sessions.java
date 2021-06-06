@@ -889,9 +889,9 @@ jTextField3.setText("");
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         // TODO add your handling code here:
         
-        Sessions C = new Sessions();
-       this.hide();
-       C.setVisible(true);
+        //Sessions C = new Sessions();
+       //this.hide();
+       //C.setVisible(true);
         
     }//GEN-LAST:event_jButton3ActionPerformed
 
