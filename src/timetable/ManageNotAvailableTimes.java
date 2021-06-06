@@ -277,9 +277,9 @@ throw new UnsupportedOperationException("Not supported yet."); //To change body 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
         
-        Timetable C = new Timetable();
-       this.hide();
-       C.setVisible(true);
+       // Timetable C = new Timetable();
+     //  this.hide();
+      // C.setVisible(true);
         
     }//GEN-LAST:event_jButton1ActionPerformed
 
