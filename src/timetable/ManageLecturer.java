@@ -709,9 +709,9 @@ txtLecturerNameML.requestFocus();
     private void btnHomeALActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHomeALActionPerformed
         // TODO add your handling code here:
         
-        Timetable C = new Timetable();
-       this.hide();
-       C.setVisible(true);
+        //Timetable C = new Timetable();
+       //this.hide();
+       //C.setVisible(true);
         
     }//GEN-LAST:event_btnHomeALActionPerformed
 
